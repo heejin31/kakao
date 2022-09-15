@@ -102,6 +102,7 @@ nav {
 }
 .list_tab { 
   display:flex;
+  white-space: nowrap;
 }
 .list_tab li { 
   flex:1; /*컨테이너에 크기에 따라 자동으로 줄어들고 늘어남*/
